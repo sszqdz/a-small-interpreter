@@ -1,2 +1,9 @@
 # a-small-interpreter
-A small lexer, parser and interpreter
+
+My practice on a small lexer, parser and interpreter
+
+## Test
+
+```bash
+go test -v ./...
+```
